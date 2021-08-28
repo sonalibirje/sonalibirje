@@ -8,7 +8,7 @@
 
 <h2> I'm a Student !!</h2>
 
-- 🔨 I'm Working on Web Devlopment and UX Designing 
+- 🔨 I'm Working on Web Development and UX Designing 
 - 👯 I’m looking to collaborate with other content creators and Developers
 - 🎯 Goals: Learn new things and contribute some from my side 
 - ⚡ Trying my hands on UX designing and Web development
